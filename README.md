@@ -48,8 +48,7 @@ Final delivery of the 7th course: '[HTML y CSS: ambientes de desarrollo, estruct
 - Improved format taken from examples in 'https://github.com/nasa/openmct/blob/master/README.md?plain=1'.
 -->
 > [!NOTE]
-> This README:
-> - Is **mainly** written in english (en), but it might have some sections in spanish (sp), since course content is in spanish.
+> This README is **mainly** written in english (en), but it might have some sections in spanish (sp), since course content is in spanish.
 
 # ℹ About.
 
@@ -91,7 +90,6 @@ Available at '<https://app.aluracursos.com/certificate/8e9d3ed4-cfc7-4253-8818-5
 <!-- Embed dynamic content (image) of contributors:
 - 'https://dev.to/lacolaco/introducing-contributors-img-keep-contributors-in-readme-md-gci'.
 - 'https://contrib.rocks/'.
-- 'https://contrib.rocks/preview?repo=a1t0ghb%2Fcourses-oracle_one-logica_programacion_II-d250726'
 -->
 # 🤝 Contributors.
 
