@@ -23,7 +23,7 @@
 - 'https://github.com/facebook/docusaurus'.
 -->
 
-# Basics of HTML and CSS.
+# Basics of HTML and CSS (I).
 
 <p align="center">
   🌐 '<a href="https://a1t0ghb.github.io/courses-oracle_one-html_y_css_I-d250821/">https://a1t0ghb.github.io/courses-oracle_one-html_y_css_I-d250821/</a>'
@@ -67,6 +67,7 @@ The course covered topics such as:
 ## 🥇 Course Certificate of Completion.
 
 Available at '<https://app.aluracursos.com/certificate/8e9d3ed4-cfc7-4253-8818-531b045b9aa5>'.
+
 - Estimated workload: 6h.
 - Activities: 50.
 - Topics:
@@ -79,12 +80,14 @@ Available at '<https://app.aluracursos.com/certificate/8e9d3ed4-cfc7-4253-8818-5
 ## 🔗 Links to program resources.
 
 **PROGRAM STRUCTURE.**
+
 - <b>*[Course]* 'HTML y CSS: ambientes de desarrollo, estructura de archivos y tags'</b>: '<https://app.aluracursos.com/course/html-css-desarrollo-estructura-archivos-tags/>'.
 - *[Module]* 'Principiante en Programación G9 - ONE': '<https://app.aluracursos.com/formacion-programacion-primeros-pasos-grupo9-one/>'.
 - **ORACLE Next Education (ONE) education program, in LATAM**: '<https://www.oracle.com/co/education/oracle-next-education/>'.
 - Alura LATAM education platform: '<https://www.aluracursos.com/>'.
 
 **COURSE RESOURCES.**
+
 - GitHub's project repository: '<https://github.com/alura-es-cursos/2067-html-css-desarrollo-estructura-archivos/>'.
 - Figma's frontend to emulate: '<https://www.figma.com/design/D464FfN417KSWJHIUVpMnX/Portafolio---Curso>'.
 
