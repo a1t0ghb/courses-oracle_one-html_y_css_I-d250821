@@ -52,16 +52,17 @@ Final delivery of the 7th course: '[HTML y CSS: ambientes de desarrollo, estruct
 
 # ℹ About.
 
-- The course covered topics such as:
-    - **Creation of `index.html` file**.
-    - Basic HTML tags, such as `<p>`, `<h1>`, `<img>`, `<a>`, etc.
-    - `<!DOCTYPE html>` special tag to indicate use of HTML5 vs. browser's 'Quirks Mode', for legacy and historical reasons.
-    - Concept of using [Figma](https://www.figma.com/) as web-tool in professional spaces to design and work in the **front-end** design.
-    - [HTML semantic elements](https://www.w3schools.com/html/html5_semantic_elements.asp), such as 'header', 'main' and 'footer'.
-    - Use of the [Emmet toolkit](https://docs.emmet.io/), for web-development. *An already built-in feature in VS Code*.
-    - **Creation of `style.css` file**.
-    - Understanding how to apply styles to HTML, either using selectors in the `style.css` file, or inside html tags, as properties.
-    - Getting to [know colors and how to reference them](https://www.w3schools.com/colors/default.asp).
+The course covered topics such as:
+
+- **Creation of `index.html` file**.
+- Basic HTML tags, such as `<p>`, `<h1>`, `<img>`, `<a>`, etc.
+- `<!DOCTYPE html>` special tag to indicate use of HTML5 vs. browser's 'Quirks Mode', for legacy and historical reasons.
+- Concept of using [Figma](https://www.figma.com/) as web-tool in professional spaces to design and work in the **front-end** design.
+- [HTML semantic elements](https://www.w3schools.com/html/html5_semantic_elements.asp), such as 'header', 'main' and 'footer'.
+- Use of the [Emmet toolkit](https://docs.emmet.io/), for web-development. *An already built-in feature in VS Code*.
+- **Creation of `style.css` file**.
+- Understanding how to apply styles to HTML, either using selectors in the `style.css` file, or inside html tags, as properties.
+- Getting to [know colors and how to reference them](https://www.w3schools.com/colors/default.asp).
 
 ## 🥇 Course Certificate of Completion.
 
